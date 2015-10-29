@@ -13,7 +13,7 @@ to fill out to fields:
 
 745.00 $ (amount in numbers)
 
-seven hundred and fourty five dollars (amount in words)
+seven hundred and forty five dollars (amount in words)
 
 
 Step 1
